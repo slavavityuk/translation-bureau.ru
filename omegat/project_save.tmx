@@ -12,6 +12,14 @@
         <seg>Я сделал небольшое описание работы с функцией "Командный проект" OmegaT.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This information was not vetted by the OmegaT developers, so if you spot anything that is incorrect, please let me know.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="slava" changedate="20130417T144902Z">
+        <seg>Эта информация не была проверена разработчиками OmegaT, так что если вы заметили неверные данные, пожалуйста, дайте мне знать.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
