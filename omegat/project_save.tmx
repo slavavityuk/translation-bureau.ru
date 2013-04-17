@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This how-to is specifically aimed at translators with little or no knowledge of SVN and who have no interest in learning SVN beyond what is necessary for using the Team Project feature in OmegaT.</seg>
+      </tuv>
+      <tuv lang="RU-RU" changeid="slava" changedate="20130417T145046Z">
+        <seg>This how-to is specifically aimed at translators with little or no knowledge of SVN and who have no interest in learning SVN beyond what is necessary for using the Team Project feature in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This information was not vetted by the OmegaT developers, so if you spot anything that is incorrect, please let me know.</seg>
       </tuv>
       <tuv lang="RU-RU" changeid="slava" changedate="20130417T144902Z">
